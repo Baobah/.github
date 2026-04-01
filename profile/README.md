@@ -41,6 +41,38 @@ O **BaObAH** é uma aplicação web full-stack desenvolvida para oferecer uma ex
 
 ---
 
+## 👥 Nosso Time
+
+Conheça os desenvolvedores que dão vida à BaObAH:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tacianosilva">
+        <img src="https://github.com/tacianosilva.png" width="100px;" alt="Nome do Dev 1"/><br />
+        <sub><b>Taciano Silva</b></sub>
+      </a><br />
+      <sub>Backend / DevOps</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hildemberg986">
+        <img src="https://github.com/Hildemberg986.png" width="100px;" alt="Nome do Dev 2"/><br />
+        <sub><b>Hildemberg Eling</b></sub>
+      </a><br />
+      <sub>Frontend / UX</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/elxsson">
+        <img src="https://github.com/elxsson.png" width="100px;" alt="Nome do Dev 1"/><br />
+        <sub><b>Elisson Tavares</b></sub>
+      </a><br />
+      <sub>Backend</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📜 Licença
 
 Este projeto está em desenvolvimento sob o regulamento de propriedade intelectual da UFRN.
