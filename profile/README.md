@@ -16,6 +16,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Build](https://github.com/Baobah/baobah-api/actions/workflows/django.yml/badge.svg?style=for-the-badge)
+
 ---
 
 ## 📖 Sobre o Projeto
