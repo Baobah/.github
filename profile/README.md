@@ -8,6 +8,14 @@
 
 </div>
 
+![GitHub Org](https://img.shields.io/badge/Org-BaObAH-2ea44f?style=for-the-badge&logo=github)
+![CI/CD Status](https://img.shields.io/badge/CI/CD-Passing-success?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ## 📖 Sobre o Projeto
