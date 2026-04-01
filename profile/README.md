@@ -17,6 +17,8 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Build](https://github.com/Baobah/baobah-api/actions/workflows/django.yml/badge.svg?style=for-the-badge)
+![Quality Gate Status](https://labens.dct.ufrn.br/sonarqube/api/project_badges/measure?project=baobah-api&metric=alert_status&token=sqb_44539ba23b2e24d0ce7648dd8fb9ef4c2247e5fd)
+![Coverage](https://labens.dct.ufrn.br/sonarqube/api/project_badges/measure?project=baobah-api&metric=coverage&token=sqb_44539ba23b2e24d0ce7648dd8fb9ef4c2247e5fd)
 
 ---
 
